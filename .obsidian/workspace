@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "9fa222bfb81bfc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1e7aac596347ef",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e35aba5612fa5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "6322c8e87fa2fa72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf013b2d197d9954",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65dd396610869232",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30cf1ebd7eeb5e25",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe86ec820ad32e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44175c3b84562b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7a145c021a1a5ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f1e7aac596347ef",
+  "lastOpenFiles": [
+    "Physics/Electrical Energy.md",
+    "Physics/Untitled.md",
+    "Physics/Energy.md",
+    "Physics/Electrical Work.md",
+    "Physics/Work.md",
+    "Physics/Energy Stores.md",
+    "Elastic Potential Energy.md",
+    "Physics/Kinetic Energy.md",
+    "Physics/Gravitational Potential Energy.md",
+    "Kinetic Energy.md"
+  ]
+}
